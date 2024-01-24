@@ -8,5 +8,5 @@ Resourses:
   * certificate of "Fundamentals of statistics" in 3 parts: [first](https://stepik.org/cert/2297610?lang=en), [second](https://stepik.org/cert/2316611?lang=en), [third](https://stepik.org/cert/2323908?lang=en)
   * certificate of ["Algorithms: theory and practice. Methods"](https://stepik.org/cert/2327582?lang=en)
 * Test cases:
-  * Gett: ru: [git](https://github.com/Roman3173/RomanGo/blob/main/Test%20cases/Gett%20(taxi)/Matching_Home_Assignment_for_Candidates_(ru).ipynb), [colab](https://colab.research.google.com/github/Roman3173/RomanGo/blob/main/Test%20cases/Gett%20(taxi)/Matching_Home_Assignment_for_Candidates_(ru).ipynb)
-  * Ebook subscription service: ru: [git](https://github.com/Roman3173/RomanGo/blob/main/Test%20cases/Ebook%20subscription%20service/retention.ipynb), [colab](https://colab.research.google.com/github/Roman3173/RomanGo/blob/main/Test%20cases/Ebook%20subscription%20service/retention.ipynb)
+  * Gett: [git (ru)](https://github.com/Roman3173/RomanGo/blob/main/Test%20cases/Gett%20(taxi)/Matching_Home_Assignment_for_Candidates_(ru).ipynb), [colab (ru)](https://colab.research.google.com/github/Roman3173/RomanGo/blob/main/Test%20cases/Gett%20(taxi)/Matching_Home_Assignment_for_Candidates_(ru).ipynb)
+  * Ebook subscription service: [git (ru)](https://github.com/Roman3173/RomanGo/blob/main/Test%20cases/Ebook%20subscription%20service/retention.ipynb), [colab (ru)](https://colab.research.google.com/github/Roman3173/RomanGo/blob/main/Test%20cases/Ebook%20subscription%20service/retention.ipynb)
