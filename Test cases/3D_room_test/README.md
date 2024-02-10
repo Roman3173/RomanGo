@@ -1,6 +1,24 @@
-Тестовое задание: https://github.com/MindSetLib/intern_test_3D_room/blob/main/README.md
 
-Сделано: сгенерировано 6. Для пола и потолка выбранный алгоритм не подходит,  
+# Общие моменты.
+
+Тестовое задание взято из [intern_test_3D_room](https://github.com/MindSetLib/intern_test_3D_room/blob/main/README.md).
+
+Сделано: сгенерировано 6 изображений стен. Для пола и потолка выбранный алгоритм не подходит, о чём ниже.
+
+До текущего момента не работал с трансформацией изображений. Впервые ознакомился с cv2, scikit-image, аффинным преобразование, преобразованием перспективы, remap, undistort, но сталкивался с Stable diffusion, blender, unreal engine. Для лучшего результата было бы неплохо в несколько итераций апскейла и денойза поднять качество как исходного изображения, так и результирующих, но, во-первых, это противоречило изначальному заданию (из задания: "Input: Любая комбинация исходных данных," -- комбинация исходных данных, а не сторонним образом трансформированных исходных данных), также об этой возможности вспомнил слишком поздно.
+
+# Результаты
+
+
+
+[0 стена](https://github.com/Roman3173/RomanGo/blob/main/Test%20cases/3D_room_test/0_proj.jpg) (самая длинная)
+[1 стена](https://github.com/Roman3173/RomanGo/blob/main/Test%20cases/3D_room_test/0_proj.jpg) (с окнами)
+[2 стена](https://github.com/Roman3173/RomanGo/blob/main/Test%20cases/3D_room_test/0_proj.jpg) (закуток рядом с окном)
+[3 стена](https://github.com/Roman3173/RomanGo/blob/main/Test%20cases/3D_room_test/0_proj.jpg) (самая короткая)
+[4 стена](https://github.com/Roman3173/RomanGo/blob/main/Test%20cases/3D_room_test/0_proj.jpg) (с дверьми лифта)
+[5 стена](https://github.com/Roman3173/RomanGo/blob/main/Test%20cases/3D_room_test/0_proj.jpg) (дальняя с дверью)
+
+# Логи выполнения задания.
 
 | Рабочий период | Затраченное время | Что делал |
 | :---         |     :---      |          :--- |
