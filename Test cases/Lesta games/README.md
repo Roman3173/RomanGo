@@ -1,8 +1,8 @@
 
 Всего есть 3 блока:
-1. На знание математики (теорвер, матстат)
-2. На знание SQL
-3. На знание метрик
+1. [На знание математики (теорвер, матстат)](https://github.com/Roman3173/RomanGo/blob/main/Test%20cases/Lesta%20games/README.md#%D0%B1%D0%BB%D0%BE%D0%BA-%D0%BD%D0%B0-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8)
+2. [На знание SQL](https://github.com/Roman3173/RomanGo/blob/main/Test%20cases/Lesta%20games/README.md#sql-%D0%B1%D0%BB%D0%BE%D0%BA)
+3. [На знание метрик](https://github.com/Roman3173/RomanGo/blob/main/Test%20cases/Lesta%20games/README.md#%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81-%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8)
 
 *(в строке выше документа, начинающейся с кнопки "Preview" самый правый символ вызывает оглавление)
 
